@@ -1,0 +1,8 @@
+# inside project root
+git init
+git add .
+git commit -m "feat: initial commit - Personalized AI Career Coach with synthetic data & RF baseline"
+# create repo on GitHub (UI or gh cli), then:
+git remote add origin git@github.com:yourusername/chiAI-Personalized-AI-Career-Coach.git
+git branch -M main
+git push -u origin main
